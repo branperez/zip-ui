@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`correctly renders History -- admittedly a pretty weeak test 1`] = `
+<div
+  className="MuiBox-root css-0"
+>
+  <ul
+    className="MuiList-root MuiList-padding css-h4y409-MuiList-root"
+  >
+    <li
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline css-konndc-MuiListItemText-root"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+        >
+          New Orleans, Louisiana
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-83ijpv-MuiTypography-root"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body2 css-e784if-MuiTypography-root"
+          >
+            70119
+             -- created at:
+          </span>
+            12/31/1969, 7:00:00 PM
+        </p>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
